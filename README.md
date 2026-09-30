@@ -95,5 +95,4 @@ El síndrome binario $S = C_2C_1C_0$ representa la posición decimal del bit alt
 ## Desarrollo
 
 - [x] Informe
-- [x] V
-- [x] Redacción del Informe Académico
+- [x] Procedimiento cuaderno
